@@ -1,4 +1,8 @@
+Intro to JSFiddle / Alert: ttps://jsfiddle.net/2v81hfet/
+Class Challenge:  https://jsfiddle.net/Lpqtskve/
+ID Challenge: https://jsfiddle.net/15kgxz9u/
+Tag Challenge:  https://jsfiddle.net/6qbgf0dn/
 
-https://jsfiddle.net/Lpqtskve/
-https://jsfiddle.net/2v81hfet/
-https://jsfiddle.net/Lpqtskve/
+Change Elements Challenge: https://jsfiddle.net/ah5x7to6/
+Change Attributes Challenge: https://jsfiddle.net/qschnzm3/
+Adding New Attributes: https://jsfiddle.net/vk3ngy50/  
